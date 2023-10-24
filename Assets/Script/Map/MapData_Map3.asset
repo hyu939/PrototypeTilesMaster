@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92cd7bfaab3b96c409854d0c1b8ca3cf, type: 3}
+  m_Name: MapData_Map3
+  m_EditorClassIdentifier: 
+  mapname: Map3
+  lv: 3
+  time: 400
+  tiles:
+  - tilesPrefab: {fileID: 388876489497171537, guid: 846e22de41d1e144d98af0f6760ab580,
+      type: 3}
+    chance: 2
+  - tilesPrefab: {fileID: 2230530226155236490, guid: 09b225093279fe649924c3a9f97f9c13,
+      type: 3}
+    chance: 2
+  - tilesPrefab: {fileID: 4359104348707496693, guid: 65820abbfd6d56048b83bf71448540f5,
+      type: 3}
+    chance: 2
+  - tilesPrefab: {fileID: 2833673285206820295, guid: 6fec26825956d7d43be3e10addc608a2,
+      type: 3}
+    chance: 2
+  - tilesPrefab: {fileID: 8972707752768509413, guid: bc2e7c863662db14e80708e38c5f0e74,
+      type: 3}
+    chance: 2
+  - tilesPrefab: {fileID: 839378107710998145, guid: a6296a6d08dec4f4f80c933faedd7a54,
+      type: 3}
+    chance: 3
+  - tilesPrefab: {fileID: 1664482125759237821, guid: 41f9fc80ad9f07c4aa9427bcc24ed153,
+      type: 3}
+    chance: 1
+  - tilesPrefab: {fileID: 6883329752616326016, guid: 98f0e13935bdc184ca5de1f2d2b81625,
+      type: 3}
+    chance: 1
+  - tilesPrefab: {fileID: 4752946444333522886, guid: c313ac8f6f8dd6d4fb89b72ab59d6cf8,
+      type: 3}
+    chance: 1
+  - tilesPrefab: {fileID: 2200150085352532171, guid: c59b23e531cfcd04f9a75530313c1ebd,
+      type: 3}
+    chance: 3
+  - tilesPrefab: {fileID: 6363528956268604279, guid: 72955a23eeb2d4f4fb874ceb080986db,
+      type: 3}
+    chance: 1
+  - tilesPrefab: {fileID: 7324598945311551634, guid: dd78d018b48ff1a4cb1c68e680ca0824,
+      type: 3}
+    chance: 2
+  - tilesPrefab: {fileID: 3460112209251773488, guid: 29121c755061c954ba2b127835db5775,
+      type: 3}
+    chance: 2
+  - tilesPrefab: {fileID: 8288884966400526566, guid: bc14ab5dbc510d740bb153e18b7f2fa2,
+      type: 3}
+    chance: 1
+  - tilesPrefab: {fileID: 3980189608147901194, guid: 3766b4f8eb76e9541b1c00a293ac2859,
+      type: 3}
+    chance: 2

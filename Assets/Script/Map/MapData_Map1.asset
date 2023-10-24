@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92cd7bfaab3b96c409854d0c1b8ca3cf, type: 3}
+  m_Name: MapData_Map1
+  m_EditorClassIdentifier: 
+  mapname: Map1
+  lv: 1
+  time: 300
+  tiles:
+  - tilesPrefab: {fileID: 388876489497171537, guid: 846e22de41d1e144d98af0f6760ab580,
+      type: 3}
+    chance: 1
+  - tilesPrefab: {fileID: 2230530226155236490, guid: 09b225093279fe649924c3a9f97f9c13,
+      type: 3}
+    chance: 1
+  - tilesPrefab: {fileID: 6363528956268604279, guid: 72955a23eeb2d4f4fb874ceb080986db,
+      type: 3}
+    chance: 1
+  - tilesPrefab: {fileID: 7324598945311551634, guid: dd78d018b48ff1a4cb1c68e680ca0824,
+      type: 3}
+    chance: 2
+  - tilesPrefab: {fileID: 3980189608147901194, guid: 3766b4f8eb76e9541b1c00a293ac2859,
+      type: 3}
+    chance: 2
